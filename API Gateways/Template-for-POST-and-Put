@@ -1,0 +1,4 @@
+{
+    "httpMethod": "$context.httpMethod",
+    "body": $input.body
+}
