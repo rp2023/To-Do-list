@@ -30,3 +30,4 @@ Bucket-Policy.txt : S3 Bucket Policy for statis website Hosting. Remember to cha
 API Gateway : Directory with Mapping templates for GET,PUT,POST and DELETE method.
 
 FrontEnd : Directory with all the files required for Frontend of our web application and needs to eb uploaded on Amazon S3.Remember to update value of "apiUrl" with your API gateway URL before uploading to S3.
+Ref:https://youtu.be/nHXJClmJMys?si=qGxxCwNkywYYqD1w
